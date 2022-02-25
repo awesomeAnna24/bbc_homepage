@@ -1,3 +1,20 @@
+/*********OSCAR TEST***********/
+.oscar-test-div {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  background-color: red;
+  height: 100%;
+}
+
+nav ul {
+  height: 100%;
+}
+
+/*********OSCAR TEST***********/
+
+
+
 /*********MEDIA QUERIES***********/
 
 @media (min-width: 786px) {
